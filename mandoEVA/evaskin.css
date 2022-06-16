@@ -1,0 +1,18 @@
+/*BEGIN Xbox One Controller Styling*/
+.controller.xbox {
+    background: url(base_eva_hold.png);
+    height: 630px;
+    width: 750px;
+    /*    margin-left: -375px;
+        margin-top: -285px;*/
+}
+
+.xbox .stick {
+    position: absolute;
+    background: url(stick_eva.png);
+    background-position: -85px 0;
+    height: 83px;
+    width: 83px;
+}
+
+/*END Xbox One Controller Styling*/
